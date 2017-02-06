@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integrasjon/integrasjon.iml" filepath="$PROJECT_DIR$/integrasjon/integrasjon.iml" />
       <module fileurl="file://$PROJECT_DIR$/react.iml" filepath="$PROJECT_DIR$/react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tjenester/tjenester.iml" filepath="$PROJECT_DIR$/tjenester/tjenester.iml" />
     </modules>
   </component>
 </project>

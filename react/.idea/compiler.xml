@@ -16,11 +16,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="react" />
+        <module name="commons" />
+        <module name="core" />
+        <module name="integrasjon" />
+        <module name="tjenester" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="commons" target="1.5" />
+      <module name="core" target="1.5" />
+      <module name="integrasjon" target="1.5" />
       <module name="react" target="1.5" />
+      <module name="tjenester" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

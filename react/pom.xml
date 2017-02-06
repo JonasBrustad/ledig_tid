@@ -6,7 +6,14 @@
 
     <groupId>no.brustad.react</groupId>
     <artifactId>react</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>tjenester</module>
+        <module>core</module>
+        <module>integrasjon</module>
+        <module>commons</module>
+    </modules>
 
 
 </project>
