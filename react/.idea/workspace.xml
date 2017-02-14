@@ -21,11 +21,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BookController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tjenester/src/main/java/no/brustad/react/tjenester/book/BookController.java">
+      <file leaf-file-name="insert-data.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tjenester/src/main/resources/insert-data.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+            <state relative-caret-position="22">
+              <caret line="1" column="74" lean-forward="false" selection-start-line="1" selection-start-column="74" selection-end-line="1" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -68,7 +68,6 @@
         <option value="$PROJECT_DIR$/tjenester/src/main/java/no/brustad/react/tjenester/Application.java" />
         <option value="$PROJECT_DIR$/tjenester/src/main/resources/create-db.sql" />
         <option value="$PROJECT_DIR$/commons/src/main/java/no/vegvesen/react/commons/model/Book.java" />
-        <option value="$PROJECT_DIR$/tjenester/src/main/resources/insert-data.sql" />
         <option value="$PROJECT_DIR$/tjenester/src/main/webapp/static/home.html" />
         <option value="$PROJECT_DIR$/tjenester/src/main/resources/templates/home.html" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -86,6 +85,7 @@
         <option value="$PROJECT_DIR$/tjenester/src/main/java/no/brustad/react/tjenester/home/HomeController.java" />
         <option value="$PROJECT_DIR$/tjenester/src/main/resources/static/index.html" />
         <option value="$PROJECT_DIR$/tjenester/src/main/java/no/brustad/react/tjenester/book/BookController.java" />
+        <option value="$PROJECT_DIR$/tjenester/src/main/resources/insert-data.sql" />
       </list>
     </option>
   </component>
@@ -110,7 +110,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="y" value="-2" />
     <option name="width" value="1938" />
     <option name="height" value="1050" />
   </component>
@@ -622,15 +622,15 @@
       <workItem from="1486626557475" duration="6046000" />
       <workItem from="1486711426644" duration="75000" />
       <workItem from="1486994516882" duration="1205000" />
-      <workItem from="1487053897089" duration="2524000" />
+      <workItem from="1487053897089" duration="3553000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26146000" />
+    <option name="totallyTimeSpent" value="27175000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="0" />
+    <frame x="-9" y="-2" width="1938" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -844,13 +844,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tjenester/src/main/resources/insert-data.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="66" lean-forward="false" selection-start-line="1" selection-start-column="66" selection-end-line="1" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tjenester/src/main/webapp/static/home.html" />
     <entry file="file://$PROJECT_DIR$/tjenester/src/main/resources/templates/home.html" />
     <entry file="file://$PROJECT_DIR$/tjenester/src/main/resources/js/test/node_modules/react/lib/canDefineProperty.js" />
@@ -925,6 +918,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
           <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <marker date="1487058949820" expanded="false" signature="49:620" ph="..." />
+            <marker date="1487058949820" expanded="true" signature="622:670" ph="@{...}" />
+            <marker date="1487058949820" expanded="true" signature="848:939" ph="@{...}" />
+            <marker date="1487058949820" expanded="true" signature="987:1314" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjenester/src/main/resources/insert-data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="74" lean-forward="false" selection-start-line="1" selection-start-column="74" selection-end-line="1" selection-end-column="74" />
           <folding />
         </state>
       </provider>

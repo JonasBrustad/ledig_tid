@@ -4,8 +4,8 @@ class Book extends Component {
     render(){
         return (
             <tr>
-                <th>{this.props.book.title}</th>
-                <th>{this.props.book.genre}</th>
+                <td>{this.props.book.title}</td>
+                <td>{this.props.book.genre}</td>
             </tr>
         )
     }
