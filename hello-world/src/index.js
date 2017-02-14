@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Book from './Book';
+import App from './App';
 import './index.css';
 
 ReactDOM.render(
-  <Book number="9999" />,
+  <App number="9999" />,
   document.getElementById('root')
 );
